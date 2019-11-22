@@ -10,5 +10,3 @@ Project 2 of the course CS132: Software Engineering. The software development pl
 + Requirtment: [Gideon Weng](https://github.com/GideonWeng)
 + Deleloper: [Wyattwwwww](https://github.com/Wyattwwwww)
 + Validation: [Candlend](https://github.com/Candlend)
-
-I wanna share great gratitude to my partners. Without their contribution, I cannot finish the project in such a limited time. 
