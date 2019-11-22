@@ -8,5 +8,5 @@ Project 2 of the course CS132: Software Engineering. The software development pl
 
 ## Contributors
 + Requirtment: [Gideon Weng](https://github.com/GideonWeng)
-+ Deleloper: [Wyattwwwww](https://github.com/Wyattwwwww)
++ Developer: [Wyattwwwww](https://github.com/Wyattwwwww)
 + Validation: [Candlend](https://github.com/Candlend)
