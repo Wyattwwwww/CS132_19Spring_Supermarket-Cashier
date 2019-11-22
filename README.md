@@ -4,3 +4,4 @@ Project 2 of the course CS132: Software Engineering. The software development pl
 ## Manual
 * Execute main.m in MATLAB to start the program.
 * db_2.mat and db_3.mat are some single backup for the database.
+* See more in *UserManual.pdf* and *Specification.pdf*.
