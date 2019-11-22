@@ -1,7 +1,7 @@
 classdef Database < handle
     
     properties 
-        merchandiseList = []; % need to improve (change it to private)
+        merchandiseList = []; 
         costChangeList = [];
         priceChangeList = [];
         profitChangeList = [];
