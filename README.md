@@ -5,3 +5,10 @@ Project 2 of the course CS132: Software Engineering. The software development pl
 * Execute main.m in MATLAB to start the program.
 * db_2.mat and db_3.mat are some single backup for the database.
 * See more in *UserManual.pdf* and *Specification.pdf*.
+
+## Contributors
++ Requirtment: [Gideon Weng](https://github.com/GideonWeng)
++ Deleloper: [Wyattwwwww](https://github.com/Wyattwwwww)
++ Validation: [Candlend](https://github.com/Candlend)
+
+I wanna share great gratitude to my partners. Without their contribution, I cannot finish the project in such a limited time. 
