@@ -1,5 +1,5 @@
 # CS132_19Spring_Supermarket-Cashier
-Project 2 of the course. The development platform is MATLAB and App Designer in it.
+Project 2 of the course CS132: Software Engineering. The software development platform is MATLAB and App Designer in it.
 
 ## Manual
 * Execute main.m in MATLAB to start the program.
